@@ -1,0 +1,1 @@
+We are predicting if a customer bought a product or didn't in this assignment. We are predicting non-continuous numerical value, YES or NO using different classification algorithms on Social_Network_Ads.csv data set which consists of three columns - customers age, estimated salary and decision to purchase
