@@ -1,0 +1,1 @@
+In clustering, we don't know what we are looking for. We are trying to identify some patterns, groupings or clusters in our data. From the dataset Mall_Customers.csv, 2 most relevant features (columns), "Annual Income" and "Spending Score" are used and visualized on 2D plane.
